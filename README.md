@@ -2,7 +2,7 @@
 script files for NSA Assignment 6
 
 requestparse.py offers 4 switches to specify the content that the user wants to examine from the requested URL. 
--h -> provided by default; help menu
+>-h -> provided by default; help menu
 -H -> return header
 -c -> return response code
 -b -> return response body
