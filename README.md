@@ -8,10 +8,8 @@ requestparse.py offers 4 switches to specify the content that the user wants to 
 -b -> return response body
 
 requestparse.py requieres the following 3 libraries: optparse, requests, and termcolor. 
-utilize:
-pip install requests
-pip install termcolor
-pip install optparse
+simply utilize:
+>pip install requests termcolor
 
 scapyscript.py will examine an entered pcap file (give it your full path to pcap) and will look for any packets in the capture which did not utilize an HTTP/1.1 tag inside a GET request. 
 
